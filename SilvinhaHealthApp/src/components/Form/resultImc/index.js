@@ -8,7 +8,7 @@ export default function ResultImc(props) {
             {props.messageResult}
         </Text>
       <Text style={styles.textImc}>
-        {props.resultTmc}
+        {props.resultImc}
       </Text>
     </View>
   )
